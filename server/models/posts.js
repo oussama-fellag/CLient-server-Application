@@ -13,6 +13,6 @@ module.exports = (sequelize, DataTypes) => {
             allowNull: false,
         },
     });
-
+// 3 colones de db 
     return Posts;
 };
