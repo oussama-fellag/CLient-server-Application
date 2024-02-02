@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "psswd",
+    "password": "pswrd",
     "database": "tuto",
     "host": "localhost",
     "dialect": "mysql"
